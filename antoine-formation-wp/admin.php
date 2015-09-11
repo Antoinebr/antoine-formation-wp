@@ -1,5 +1,5 @@
 <h1> Vidéos de formations </h1>
-<p> Sur cette page vous pouvez consulter les videos qui vous expliquerons comment utiliser votre site </p>
+<p> Sur cette page vous pouvez consulter les vidéos qui vous expliqueront comment utiliser votre site </p>
 
 <div class="formation-video inlineblock">
 	<h2>Comment ajouter une page ? </h2>
