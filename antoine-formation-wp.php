@@ -20,9 +20,6 @@ function register_formation_page() {
 }
 
 
-/**
-*
-*/
 class videoFormation{
 
   private $formationData;
