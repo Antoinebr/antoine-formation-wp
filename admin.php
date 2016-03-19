@@ -16,6 +16,14 @@ $videos = array(
 );
 
 
+/*
+*
+*  Filtre les videos
+*
+*/
+$videos = apply_filters("afwp-videos-data",$videos);
+
+
 
 $formation = new videoFormation($videos);
 
